@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var occupation = "gangster"
+        var name = "Matthew Soriano"
     }
 
     //VCS tab opens version control settings
